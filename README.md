@@ -10,4 +10,4 @@ as I learn web development.
 
 ## Projects
 
-More projects coming soon.
+My first project is a Rock-Paper-Scissors game built using HTML, CSS, and JavaScript.

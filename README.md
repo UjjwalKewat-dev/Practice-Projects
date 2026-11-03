@@ -18,3 +18,7 @@ My first project is a Rock-Paper-Scissors game built using HTML, CSS, and JavaSc
 - Learned to create files and folders.
 - Practiced commits and commit history.
 - Created my first feature branch.
+
+## Local Development
+
+Learning Git and GitHub through VS Code.

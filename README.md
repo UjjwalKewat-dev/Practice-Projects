@@ -22,3 +22,10 @@ My first project is a Rock-Paper-Scissors game built using HTML, CSS, and JavaSc
 ## Local Development
 
 Learning Git and GitHub through VS Code.
+
+## Development Environment
+
+- Operating System: Windows
+- Code Editor: Visual Studio Code
+- Version Control: Git
+- Repository Hosting: GitHub
